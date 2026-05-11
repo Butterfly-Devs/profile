@@ -1,0 +1,132 @@
+{
+  "company": {
+    "name": "Butterfly Devs",
+    "logo": "https://i.ibb.co.com/1tKf50gh/main-photocut-removebg-preview.png",
+    "tagline": "Building digital solutions that transform ideas into innovation.",
+    "type": "Software & IoT Development Team",
+    "foundedLocation": "Rajshahi, Bangladesh",
+    "description": "Butterfly Devs is a student-led software and IoT development team focused on building mobile apps, web platforms, smart automation systems, and AI-powered solutions.",
+    "mission": "To create practical and innovative technology solutions that help communities, students, and businesses.",
+    "vision": "Empowering innovation through software, hardware, and intelligent systems."
+  },
+
+  "specializations": [
+    "Mobile App Development",
+    "Web Development",
+    "IoT & Automation",
+    "Smart Home Systems",
+    "Firebase Solutions",
+    "AI & Machine Learning",
+    "Embedded Systems",
+    "UI/UX Design"
+  ],
+
+  "technologies": {
+    "frontend": [
+      "Flutter",
+      "React",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+
+    "backend": [
+      "Firebase",
+      "Node.js",
+      "Python"
+    ],
+
+    "iot": [
+      "ESP8266",
+      "ESP32",
+      "Arduino",
+      "Relay Modules",
+      "Sensors"
+    ],
+
+    "ai_ml": [
+      "TensorFlow",
+      "Scikit-learn",
+      "OpenCV",
+      "Python"
+    ],
+
+    "deployment": [
+      "Netlify",
+      "Firebase Hosting"
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "Smart Water Pump Controller System",
+      "shortName": "SWPCS",
+      "category": "IoT",
+      "description": "An automated water pump control system with RTC scheduling, Wi-Fi configuration, and smart relay management."
+    },
+
+    {
+      "name": "Smart Home Automation",
+      "category": "IoT",
+      "description": "A Firebase-based smart home ecosystem for remote appliance control using Flutter and ESP8266."
+    },
+
+    {
+      "name": "RUCSE HUB",
+      "category": "Education",
+      "description": "A digital platform for Rajshahi University CSE students featuring resources, notices, and collaboration tools."
+    },
+
+    {
+      "name": "Beautiful Dinajpur",
+      "category": "City Services",
+      "description": "A city information and services app designed for Dinajpur residents and visitors."
+    },
+
+    {
+      "name": "Muslim View",
+      "category": "Islamic App",
+      "description": "An Islamic lifestyle application featuring prayer tools, Islamic content, and daily guidance."
+    },
+
+    {
+      "name": "Ruqyah Solution",
+      "category": "Islamic & Ruqyah App",
+      "description": "A complete Islamic Ruqyah application featuring Ruqyah verses, authentic Duas, audio recitations, self-check guidance, healing resources, and spiritual protection content based on Quran and Sunnah."
+    }
+  ],
+
+  "services": [
+    "Custom Mobile App Development",
+    "Website Development",
+    "IoT Product Development",
+    "Automation Solutions",
+    "Firebase Integration",
+    "Machine Learning Solutions",
+    "UI/UX Design",
+    "Technical Consultation"
+  ],
+
+  "teamCulture": {
+    "environment": "Collaborative and innovation-focused",
+    "community": "Student-friendly developer community",
+    "focus": [
+      "Learning",
+      "Research",
+      "Innovation",
+      "Real-world problem solving"
+    ]
+  },
+
+  "socialLinks": {
+    "facebook": "https://facebook.com/butterflydevs"
+  },
+
+  "contact": {
+    "location": "Rajshahi, Bangladesh",
+    "email": "butterflydev7@gmail.com",
+    "phone": "+8801580302857",
+    "whatsapp": "https://wa.me/8801580302857",
+    "availability": "Open for collaborations and development projects"
+  }
+}
